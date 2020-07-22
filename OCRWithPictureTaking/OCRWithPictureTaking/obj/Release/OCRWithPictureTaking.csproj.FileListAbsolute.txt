@@ -1,0 +1,1 @@
+G:\Storage\CodingProjects\C#\OCRWithPictureTaking\OCRWithPictureTaking\OCRWithPictureTaking\obj\Release\OCRWithPictureTaking.csprojAssemblyReference.cache

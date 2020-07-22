@@ -1,0 +1,15 @@
+G:\Storage\CodingProjects\C#\OCRWithPictureTaking\OCRWithPictureTaking\OCRWithPictureTaking\obj\Debug\OCRWithPictureTaking.csprojAssemblyReference.cache
+G:\Storage\CodingProjects\C#\OCRWithPictureTaking\OCRWithPictureTaking\OCRWithPictureTaking\obj\Debug\OCRWithPictureTaking.Properties.Resources.resources
+G:\Storage\CodingProjects\C#\OCRWithPictureTaking\OCRWithPictureTaking\OCRWithPictureTaking\obj\Debug\OCRWithPictureTaking.csproj.GenerateResource.cache
+G:\Storage\CodingProjects\C#\OCRWithPictureTaking\OCRWithPictureTaking\OCRWithPictureTaking\obj\Debug\OCRWithPictureTaking.csproj.CoreCompileInputs.cache
+G:\Storage\CodingProjects\C#\OCRWithPictureTaking\OCRWithPictureTaking\OCRWithPictureTaking\bin\Debug\OCRWithPictureTaking.exe.config
+G:\Storage\CodingProjects\C#\OCRWithPictureTaking\OCRWithPictureTaking\OCRWithPictureTaking\bin\Debug\OCRWithPictureTaking.exe
+G:\Storage\CodingProjects\C#\OCRWithPictureTaking\OCRWithPictureTaking\OCRWithPictureTaking\bin\Debug\OCRWithPictureTaking.pdb
+G:\Storage\CodingProjects\C#\OCRWithPictureTaking\OCRWithPictureTaking\OCRWithPictureTaking\obj\Debug\OCRWithPictureTaking.exe
+G:\Storage\CodingProjects\C#\OCRWithPictureTaking\OCRWithPictureTaking\OCRWithPictureTaking\obj\Debug\OCRWithPictureTaking.pdb
+G:\Storage\CodingProjects\C#\OCRWithPictureTaking\OCRWithPictureTaking\OCRWithPictureTaking\bin\Debug\x86\leptonica-1.78.0.dll
+G:\Storage\CodingProjects\C#\OCRWithPictureTaking\OCRWithPictureTaking\OCRWithPictureTaking\bin\Debug\x86\tesseract41.dll
+G:\Storage\CodingProjects\C#\OCRWithPictureTaking\OCRWithPictureTaking\OCRWithPictureTaking\bin\Debug\x64\leptonica-1.78.0.dll
+G:\Storage\CodingProjects\C#\OCRWithPictureTaking\OCRWithPictureTaking\OCRWithPictureTaking\bin\Debug\x64\tesseract41.dll
+G:\Storage\CodingProjects\C#\OCRWithPictureTaking\OCRWithPictureTaking\OCRWithPictureTaking\bin\Debug\Tesseract.dll
+G:\Storage\CodingProjects\C#\OCRWithPictureTaking\OCRWithPictureTaking\OCRWithPictureTaking\obj\Debug\OCRWithPictureTaking.csproj.CopyComplete
